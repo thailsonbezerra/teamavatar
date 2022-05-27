@@ -3,3 +3,32 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.header-bg {
+  background-color: #fff8dc;
+}
+
+.header {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+.header-menu {
+  display: flex;
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.header-menu a {
+  text-decoration: none;
+}
