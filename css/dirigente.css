@@ -8,7 +8,7 @@
 }
 
 .dirigente-descricao {
-  margin-top: 40px;
+  padding: 40px 0;
 }
 
 .dirigente-descricao h1 {
@@ -29,6 +29,7 @@
 }
 
 .dirigente-info {
+  padding: 40px 0;
   align-self: center;
 }
 
@@ -41,4 +42,66 @@
 .dirigente-info p {
   margin-bottom: 20px;
   color: #42341b;
+}
+
+@media (max-width: 1000px) {
+  .dirigente {
+    grid-template-columns: 2fr auto 2fr;
+  }
+
+  .dirigente-descricao h1 {
+    font-size: 4rem;
+  }
+  .dirigente-descricao p {
+    font-size: 1rem;
+  }
+
+  .dirigente-info h2 {
+    font-size: 1.1rem;
+  }
+
+  .dirigente-info p {
+    margin-bottom: 20px;
+    color: #42341b;
+  }
+}
+
+@media (max-width: 860px) {
+  .dirigente {
+    grid-template-columns: 1fr auto;
+  }
+
+  .dirigente-info {
+    padding-top: 0;
+    grid-column: 1/-1;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+  }
+}
+
+@media (max-width: 750px) {
+  .dirigente {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .dirigente-descricao {
+    padding-top: 20px;
+  }
+
+  .dirigente-descricao h1 {
+    margin-bottom: 8px;
+    font-size: 3.5rem;
+  }
+
+  .dirigente-descricao p {
+    font-size: 0.9rem;
+    margin-bottom: 28px;
+  }
+}
+
+@media (max-width: 600px) {
+  .dirigente {
+    grid-template-columns: auto;
+  }
 }

@@ -14,4 +14,12 @@
   letter-spacing: 1.2px;
   background-color: #f9faf1;
   cursor: pointer;
+  display: inline-block;
+}
+
+@media (max-width: 720px) {
+  .btn {
+    font-size: 0.8rem;
+    padding: 8px 16px;
+  }
 }
