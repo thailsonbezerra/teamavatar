@@ -1,11 +1,11 @@
 .footer-bg {
-  background: #ddad5a url("/img/elemento-ar.png") no-repeat left center;
+  background: #ddad5a url("/img/elemento-ar.png") no-repeat left top;
 }
 
 .footer {
   display: grid;
   grid-template-columns: 2fr 3fr 1fr;
-  padding: 20px 0;
+  gap: 20px;
 }
 .copy {
   font-size: 20px;

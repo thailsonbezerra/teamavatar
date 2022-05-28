@@ -23,3 +23,19 @@
   color: #f9faf1;
   border-bottom: #f9faf1 solid 2px;
 }
+
+@media (max-width: 800px) {
+  .header-menu {
+    gap: 16px;
+  }
+  .header-menu a {
+    padding: 12px;
+    font-size: 20px;
+  }
+
+  @media (max-width: 600px) {
+    .header-menu {
+      display: none;
+    }
+  }
+}
