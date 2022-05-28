@@ -1,4 +1,5 @@
-@import "global.css";
-@import "header.css";
+@import "global/global.css";
+@import "utilidades/componentes.css";
 @import "dirigente.css";
+@import "header.css";
 @import "footer.css";

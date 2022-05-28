@@ -4,8 +4,6 @@
 .dirigente {
   display: grid;
   grid-template-columns: 2fr 3fr 1fr;
-  max-width: 1200px;
-  margin: 0 auto;
   background: url("/img/aang-bg.png") no-repeat left bottom;
 }
 
@@ -43,13 +41,4 @@
 .dirigente-info p {
   margin-bottom: 20px;
   color: #42341b;
-}
-
-.btn {
-  padding: 12px 20px;
-  text-transform: uppercase;
-  border-radius: 24px;
-  border: none;
-  color: #161109;
-  letter-spacing: 1.2px;
 }
