@@ -1,0 +1,29 @@
+.header-bg {
+  background-color: #c79c51;
+}
+
+.header {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-menu {
+  display: flex;
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.header-menu a {
+  padding: 20px;
+  color: #42341b;
+  font-size: 24px;
+}
+
+.header-menu a:hover {
+  color: #f9faf1;
+  border-bottom: #f9faf1 solid 2px;
+}
