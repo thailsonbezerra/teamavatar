@@ -97,7 +97,35 @@ main {
   color: #42341b;
 }
 
+.teste-2 {
+  background: #ddad5a url("img/elemento-ar-reduzido.png") no-repeat left center;
+}
+
 footer {
-  height: 300px;
   background-color: #ddad5a;
+  display: grid;
+  grid-template-columns: 2fr 3fr 1fr;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+.copy {
+  font-size: 20px;
+  align-self: end;
+}
+
+.proximo-personagem-descricao {
+  font-size: 20px;
+  max-width: 500px;
+}
+.proximo-personagem {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-size: 20px;
+}
+
+.proximo-personagem img {
+  border-radius: 50%;
+  box-shadow: inset -0.8em 0 #f9faf1, 0.19em 0 #f9faf1;
 }
