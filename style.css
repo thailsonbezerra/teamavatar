@@ -41,32 +41,51 @@
   border-bottom: #f9faf1 solid 2px;
 }
 
-.teste {
-  background: #ddad5a url("img/elemento-ar-reduzido.png") no-repeat right top;
+.dirigente-bg {
+  background: #ddad5a url("img/elemento-ar.png") no-repeat right top;
 }
-main {
+.dirigente {
   display: grid;
   grid-template-columns: 2fr 3fr 1fr;
   max-width: 1200px;
   margin: 0 auto;
-  background: url("img/aaabb.png") no-repeat left bottom;
+  background: url("img/aang-bg.png") no-repeat left bottom;
 }
 
-.personagem-descricao {
+.dirigente-descricao {
   margin-top: 40px;
 }
 
-.personagem-descricao h1 {
+.dirigente-descricao h1 {
   color: #f9faf1;
   font-size: 84px;
   margin-bottom: 20px;
 }
 
-.personagem-descricao p {
+.dirigente-descricao p {
   font-size: 20px;
   color: #161109;
   font-weight: 500;
   margin-bottom: 48px;
+}
+
+.dirigente-imagem {
+  background: url("img/shape.svg") no-repeat;
+}
+
+.dirigente-info {
+  align-self: center;
+}
+
+.dirigente-info h2 {
+  font-size: 24px;
+  color: #161109;
+  margin-bottom: 8px;
+}
+
+.dirigente-info p {
+  margin-bottom: 20px;
+  color: #42341b;
 }
 
 .btn {
@@ -78,31 +97,11 @@ main {
   letter-spacing: 1.2px;
 }
 
-.personagem-imagem {
-  background: url("img/blob.svg") no-repeat;
+.footer-bg {
+  background: #ddad5a url("img/elemento-ar.png") no-repeat left center;
 }
 
-.personagem-info {
-  align-self: center;
-}
-
-.personagem-info h2 {
-  font-size: 24px;
-  color: #161109;
-  margin-bottom: 8px;
-}
-
-.personagem-info p {
-  margin-bottom: 20px;
-  color: #42341b;
-}
-
-.teste-2 {
-  background: #ddad5a url("img/elemento-ar-reduzido.png") no-repeat left center;
-}
-
-footer {
-  background-color: #ddad5a;
+.footer {
   display: grid;
   grid-template-columns: 2fr 3fr 1fr;
   max-width: 1200px;
