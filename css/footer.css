@@ -3,22 +3,21 @@
 }
 
 .footer {
+  font-size: 1.25rem;
   display: grid;
   grid-template-columns: 2fr 3fr 1fr;
   gap: 20px;
+  padding: 40px 0;
 }
 .copy {
-  font-size: 20px;
   align-self: end;
 }
 
 .proximo-personagem-descricao {
-  font-size: 20px;
   max-width: 500px;
 }
 .proximo-personagem {
   display: flex;
   align-items: center;
   gap: 20px;
-  font-size: 20px;
 }

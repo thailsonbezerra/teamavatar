@@ -16,7 +16,7 @@
 .header-menu a {
   padding: 20px;
   color: #42341b;
-  font-size: 24px;
+  font-size: 1.25rem;
 }
 
 .header-menu a:hover {
@@ -30,7 +30,7 @@
   }
   .header-menu a {
     padding: 12px;
-    font-size: 20px;
+    font-size: 1.25rem;
   }
 
   @media (max-width: 600px) {
