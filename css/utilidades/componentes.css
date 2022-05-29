@@ -8,16 +8,17 @@
 .btn {
   padding: 12px 20px;
   text-transform: uppercase;
-  border-radius: 24px;
+  border-radius: 16px;
   border: none;
   color: #161109;
-  letter-spacing: 1.2px;
   background-color: #f9faf1;
   cursor: pointer;
   display: inline-block;
+  height: max-content;
+  width: max-content;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 800px) {
   .btn {
     font-size: 0.8rem;
     padding: 8px 16px;

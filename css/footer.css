@@ -7,17 +7,64 @@
   display: grid;
   grid-template-columns: 2fr 3fr 1fr;
   gap: 20px;
-  padding: 40px 0;
+  padding: 40px 20px;
+  color: #000;
 }
 .copy {
   align-self: end;
 }
 
-.proximo-personagem-descricao {
-  max-width: 500px;
-}
 .proximo-personagem {
-  display: flex;
-  align-items: center;
-  gap: 20px;
+  padding: 20px;
+  font-size: 1.25rem;
+}
+
+.proximo-personagem:hover {
+  color: #f9faf1;
+  border-bottom: #f9faf1 solid 2px;
+  width: max-content;
+}
+
+@media (max-width: 950px) {
+  .footer {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 700px) {
+  .footer-bg {
+    background-position-y: bottom;
+  }
+
+  .footer {
+    grid-template-columns: auto 1fr;
+    padding-bottom: 12px;
+    padding-top: 16px;
+  }
+
+  .copy {
+    grid-column: 1/-1;
+    grid-row: 2;
+    font-size: 1.1rem;
+    text-align: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .footer-bg {
+    background-position-y: 70%;
+  }
+
+  .footer {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .proximo-personagem {
+    text-align: center;
+  }
+
+  .copy {
+    grid-row: 3;
+  }
 }
