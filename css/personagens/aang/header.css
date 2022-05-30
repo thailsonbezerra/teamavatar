@@ -1,0 +1,12 @@
+#aang .header-bg {
+  background-color: var(--aang-color-header-bg);
+}
+
+#aang .header-menu a {
+  color: var(--aang-color-font);
+}
+
+#aang .header-menu a:hover {
+  color: var(--aang-color-destaque);
+  border-bottom: var(--aang-color-destaque) solid 2px;
+}

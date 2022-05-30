@@ -10,8 +10,6 @@
   text-transform: uppercase;
   border-radius: 16px;
   border: none;
-  color: #161109;
-  background-color: var(--aang-color-destaque);
   cursor: pointer;
   display: inline-block;
   height: max-content;

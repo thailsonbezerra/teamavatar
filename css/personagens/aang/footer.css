@@ -1,0 +1,9 @@
+#aang .footer-bg {
+  background: var(--aang-color-bg) url("/img/elemento-ar.png") no-repeat left
+    top;
+}
+
+#aang .proximo-personagem:hover {
+  color: var(--aang-color-destaque);
+  border-bottom: var(--aang-color-destaque) solid 2px;
+}

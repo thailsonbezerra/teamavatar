@@ -1,11 +1,6 @@
-.dirigente-bg {
-  background: var(--aang-color-bg) url("/img/elemento-ar.png") no-repeat right
-    top;
-}
 .dirigente {
   display: grid;
   grid-template-columns: 2fr 3fr 1fr;
-  background: url("/img/aang-bg.png") no-repeat left bottom;
 }
 
 .dirigente-descricao {
@@ -13,7 +8,6 @@
 }
 
 .dirigente-descricao h1 {
-  color: var(--aang-color-destaque);
   font-size: 5.25rem;
   margin-bottom: 20px;
 }
@@ -23,10 +17,6 @@
   color: #161109;
   font-weight: 500;
   margin-bottom: 48px;
-}
-
-.dirigente-imagem {
-  background: url("/img/shape.svg") no-repeat;
 }
 
 .dirigente-info {

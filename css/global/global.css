@@ -4,10 +4,6 @@
   box-sizing: border-box;
 }
 
-body {
-  background-color: var(--aang-color-bg);
-}
-
 img {
   max-width: 100%;
   display: block;

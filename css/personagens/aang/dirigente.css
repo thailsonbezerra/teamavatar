@@ -1,0 +1,20 @@
+#aang .dirigente-bg {
+  background: var(--aang-color-bg) url("/img/elemento-ar.png") no-repeat right
+    top;
+}
+
+#aang .dirigente {
+  background: url("/img/aang-bg.png") no-repeat left bottom;
+}
+
+#aang .dirigente-descricao h1 {
+  color: var(--aang-color-destaque);
+}
+
+#aang .dirigente-imagem {
+  background: url("/img/shape.svg") no-repeat;
+}
+
+#aang .dirigente-info p {
+  color: var(--aang-color-font);
+}
