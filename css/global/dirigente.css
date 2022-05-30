@@ -52,7 +52,7 @@
   }
 }
 
-@media (max-width: 860px) {
+@media (max-width: 890px) {
   .dirigente {
     grid-template-columns: 1fr auto;
   }
