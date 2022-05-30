@@ -1,6 +1,5 @@
 #aang .dirigente-bg {
-  background: var(--aang-color-bg) url("/img/elemento-ar.png") no-repeat right
-    top;
+  background: var(--aang-color-bg) url("/img/tribo-ar.png") no-repeat right top;
 }
 
 #aang .dirigente {
