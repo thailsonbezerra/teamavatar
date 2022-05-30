@@ -1,5 +1,5 @@
 .header-bg {
-  background-color: #c79c51;
+  background-color: var(--aang-color-header-bg);
 }
 
 .header {
@@ -15,13 +15,13 @@
 
 .header-menu a {
   padding: 20px;
-  color: #42341b;
+  color: var(--aang-color-font);
   font-size: 1.25rem;
 }
 
 .header-menu a:hover {
-  color: #f9faf1;
-  border-bottom: #f9faf1 solid 2px;
+  color: var(--aang-color-destaque);
+  border-bottom: var(--aang-color-destaque) solid 2px;
 }
 
 @media (max-width: 800px) {

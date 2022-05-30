@@ -1,5 +1,6 @@
 .dirigente-bg {
-  background: #ddad5a url("/img/elemento-ar.png") no-repeat right top;
+  background: var(--aang-color-bg) url("/img/elemento-ar.png") no-repeat right
+    top;
 }
 .dirigente {
   display: grid;
@@ -12,7 +13,7 @@
 }
 
 .dirigente-descricao h1 {
-  color: #f9faf1;
+  color: var(--aang-color-destaque);
   font-size: 5.25rem;
   margin-bottom: 20px;
 }
@@ -41,7 +42,7 @@
 
 .dirigente-info p {
   margin-bottom: 20px;
-  color: #42341b;
+  color: var(--aang-color-font);
 }
 
 @media (max-width: 1000px) {
@@ -58,11 +59,6 @@
 
   .dirigente-info h2 {
     font-size: 1.1rem;
-  }
-
-  .dirigente-info p {
-    margin-bottom: 20px;
-    color: #42341b;
   }
 }
 

@@ -1,5 +1,6 @@
 .footer-bg {
-  background: #ddad5a url("/img/elemento-ar.png") no-repeat left top;
+  background: var(--aang-color-bg) url("/img/elemento-ar.png") no-repeat left
+    top;
 }
 
 .footer {
@@ -20,8 +21,8 @@
 }
 
 .proximo-personagem:hover {
-  color: #f9faf1;
-  border-bottom: #f9faf1 solid 2px;
+  color: var(--aang-color-destaque);
+  border-bottom: var(--aang-color-destaque) solid 2px;
   width: max-content;
 }
 
