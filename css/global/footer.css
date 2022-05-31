@@ -4,7 +4,6 @@
   grid-template-columns: 2fr 3fr 1fr;
   gap: 20px;
   padding: 40px 20px;
-  color: #000;
 }
 .copy {
   align-self: end;
@@ -17,6 +16,7 @@
 
 .proximo-personagem:hover {
   width: max-content;
+  height: max-content;
 }
 
 @media (max-width: 950px) {
@@ -33,7 +33,7 @@
   .footer {
     grid-template-columns: auto 1fr;
     padding-bottom: 12px;
-    padding-top: 16px;
+    padding-top: 40px;
   }
 
   .copy {

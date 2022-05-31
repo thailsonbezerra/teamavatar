@@ -14,7 +14,6 @@
 
 .dirigente-descricao p {
   font-size: 1.25rem;
-  color: #161109;
   font-weight: 500;
   margin-bottom: 48px;
 }
@@ -26,13 +25,11 @@
 
 .dirigente-info h2 {
   font-size: 1.5rem;
-  color: #161109;
   margin-bottom: 8px;
 }
 
 .dirigente-info p {
   margin-bottom: 20px;
-  color: var(--aang-color-font);
 }
 
 @media (max-width: 1000px) {
