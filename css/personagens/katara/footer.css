@@ -1,0 +1,14 @@
+#katara .footer-bg {
+  background: var(--katara-color-bg) url("/img/tribo-agua.png") no-repeat left
+    top;
+}
+
+#katara .proximo-personagem,
+#katara .proximo-personagem-descricao {
+  color: #002235;
+}
+
+#katara .proximo-personagem:hover {
+  color: var(--katara-color-destaque);
+  border-bottom: var(--katara-color-destaque) solid 2px;
+}

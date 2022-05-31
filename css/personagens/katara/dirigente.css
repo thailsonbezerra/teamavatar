@@ -1,0 +1,25 @@
+#katara .dirigente-bg {
+  background: var(--katara-color-bg) url("/img/tribo-agua.png") no-repeat right
+    top;
+}
+
+#katara .dirigente {
+  background: url("/img/katara-bg.png") no-repeat left bottom;
+}
+
+#katara .dirigente-descricao h1 {
+  color: var(--katara-color-destaque);
+}
+
+#katara .dirigente-imagem {
+  background: url("/img/katara-shape.svg") no-repeat;
+}
+
+#katara .dirigente-info p {
+  color: var(--katara-color-font);
+}
+
+#katara .dirigente-info h2,
+#katara .dirigente-descricao p {
+  color: var(--katara-color-font-2);
+}
