@@ -16,3 +16,8 @@
 @import "personagens/katara/dirigente.css";
 @import "personagens/katara/header.css";
 @import "personagens/katara/footer.css";
+
+@import "personagens/zuko/utilidades.css";
+@import "personagens/zuko/dirigente.css";
+@import "personagens/zuko/header.css";
+@import "personagens/zuko/footer.css";

@@ -1,0 +1,14 @@
+#zuko .footer-bg {
+  background: var(--zuko-color-bg) url("/img/tribos/tribo-fogo.png") no-repeat
+    left top;
+}
+
+#zuko .proximo-personagem,
+#zuko .proximo-personagem-descricao {
+  color: var(--zuko-color-font-2);
+}
+
+#zuko .proximo-personagem:hover {
+  color: var(--zuko-color-destaque);
+  border-bottom: var(--zuko-color-destaque) solid 2px;
+}

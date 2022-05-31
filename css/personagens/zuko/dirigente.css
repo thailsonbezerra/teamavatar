@@ -1,0 +1,25 @@
+#zuko .dirigente-bg {
+  background: var(--zuko-color-bg) url("/img/tribos/tribo-fogo.png") no-repeat
+    right top;
+}
+
+#zuko .dirigente {
+  background: url("/img/zuko-bg.png") no-repeat left bottom;
+}
+
+#zuko .dirigente-descricao h1 {
+  color: var(--zuko-color-destaque);
+}
+
+#zuko .dirigente-imagem {
+  background: url("/img/zuko-shape.svg") no-repeat;
+}
+
+#zuko .dirigente-info p {
+  color: var(--zuko-color-font);
+}
+
+#zuko .dirigente-info h2,
+#zuko .dirigente-descricao p {
+  color: var(--zuko-color-font-2);
+}

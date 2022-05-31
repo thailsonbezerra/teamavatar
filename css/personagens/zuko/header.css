@@ -1,0 +1,12 @@
+#zuko .header-bg {
+  background-color: var(--zuko-color-header-bg);
+}
+
+#zuko .header-menu a {
+  color: var(--zuko-color-font);
+}
+
+#zuko .header-menu a:hover {
+  color: var(--zuko-color-destaque);
+  border-bottom: var(--zuko-color-destaque) solid 2px;
+}
