@@ -5,7 +5,7 @@
 
 #katara .proximo-personagem,
 #katara .proximo-personagem-descricao {
-  color: #002235;
+  color: var(--katara-color-font-2);
 }
 
 #katara .proximo-personagem:hover {
