@@ -1,6 +1,6 @@
 #katara .dirigente-bg {
-  background: var(--katara-color-bg) url("/img/tribo-agua.png") no-repeat right
-    top;
+  background: var(--katara-color-bg) url("/img/tribos/tribo-agua.png") no-repeat
+    right top;
 }
 
 #katara .dirigente {

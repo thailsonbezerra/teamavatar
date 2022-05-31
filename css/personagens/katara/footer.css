@@ -1,6 +1,6 @@
 #katara .footer-bg {
-  background: var(--katara-color-bg) url("/img/tribo-agua.png") no-repeat left
-    top;
+  background: var(--katara-color-bg) url("/img/tibros/tribo-agua.png") no-repeat
+    left top;
 }
 
 #katara .proximo-personagem,
