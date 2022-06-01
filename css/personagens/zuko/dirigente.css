@@ -4,7 +4,7 @@
 }
 
 #zuko .dirigente {
-  background: url("/img/zuko-bg.png") no-repeat left bottom;
+  background: url("/img/zuko/zuko-bg.png") no-repeat left bottom;
 }
 
 #zuko .dirigente-descricao h1 {
@@ -12,7 +12,7 @@
 }
 
 #zuko .dirigente-imagem {
-  background: url("/img/zuko-shape.svg") no-repeat;
+  background: url("/img/zuko/zuko-shape.svg") no-repeat;
 }
 
 #zuko .dirigente-info p {

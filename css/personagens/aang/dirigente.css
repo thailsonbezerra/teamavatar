@@ -4,7 +4,7 @@
 }
 
 #aang .dirigente {
-  background: url("/img/aang-bg.png") no-repeat left bottom;
+  background: url("/img/aang/aang-bg.png") no-repeat left bottom;
 }
 
 #aang .dirigente-descricao h1 {
@@ -12,7 +12,7 @@
 }
 
 #aang .dirigente-imagem {
-  background: url("/img/aang-shape.svg") no-repeat;
+  background: url("/img/aang/aang-shape.svg") no-repeat;
 }
 
 #aang .dirigente-info p {

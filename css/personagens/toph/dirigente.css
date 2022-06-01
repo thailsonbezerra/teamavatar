@@ -4,7 +4,7 @@
 }
 
 #toph .dirigente {
-  background: url("/img/toph-bg.png") no-repeat left bottom;
+  background: url("/img/toph/toph-bg.png") no-repeat left bottom;
 }
 
 #toph .dirigente-descricao h1 {
@@ -12,7 +12,7 @@
 }
 
 #toph .dirigente-imagem {
-  background: url("/img/toph-shape.svg") no-repeat;
+  background: url("/img/toph/toph-shape.svg") no-repeat;
 }
 
 #toph .dirigente-info p {
