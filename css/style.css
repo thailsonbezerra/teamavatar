@@ -26,3 +26,8 @@
 @import "personagens/toph/dirigente.css";
 @import "personagens/toph/header.css";
 @import "personagens/toph/footer.css";
+
+@import "personagens/sokka/utilidades.css";
+@import "personagens/sokka/dirigente.css";
+@import "personagens/sokka/header.css";
+@import "personagens/sokka/footer.css";
