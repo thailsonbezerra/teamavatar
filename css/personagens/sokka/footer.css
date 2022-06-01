@@ -1,0 +1,14 @@
+#sokka .footer-bg {
+  background: var(--sokka-color-bg) url("/img/tribos/tribo-agua.png") no-repeat
+    left top;
+}
+
+#sokka .proximo-personagem,
+#sokka .proximo-personagem-descricao {
+  color: var(--sokka-color-font-2);
+}
+
+#sokka .proximo-personagem:hover {
+  color: var(--sokka-color-destaque);
+  border-bottom: var(--sokka-color-destaque) solid 2px;
+}

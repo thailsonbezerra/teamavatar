@@ -1,0 +1,25 @@
+#sokka .dirigente-bg {
+  background: var(--sokka-color-bg) url("/img/tribos/tribo-agua.png") no-repeat
+    right top;
+}
+
+#sokka .dirigente {
+  background: url("/img/sokka/sokka-bg.png") no-repeat left bottom;
+}
+
+#sokka .dirigente-descricao h1 {
+  color: var(--sokka-color-destaque);
+}
+
+#sokka .dirigente-imagem {
+  background: url("/img/sokka/sokka-shape.svg") no-repeat;
+}
+
+#sokka .dirigente-info p {
+  color: var(--sokka-color-font);
+}
+
+#sokka .dirigente-info h2,
+#sokka .dirigente-descricao p {
+  color: var(--sokka-color-font-2);
+}

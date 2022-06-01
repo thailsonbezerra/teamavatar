@@ -1,0 +1,12 @@
+#sokka .header-bg {
+  background-color: var(--sokka-color-header-bg);
+}
+
+#sokka .header-menu a {
+  color: var(--sokka-color-font);
+}
+
+#sokka .header-menu a:hover {
+  color: var(--sokka-color-destaque);
+  border-bottom: var(--sokka-color-destaque) solid 2px;
+}
