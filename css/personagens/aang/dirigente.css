@@ -18,3 +18,8 @@
 #aang .dirigente-info p {
   color: var(--aang-color-font);
 }
+
+#aang .dirigente-info h2,
+#aang .dirigente-descricao p {
+  color: var(--aang-color-font-2);
+}

@@ -1,4 +1,4 @@
 #aang .btn {
-  color: #161109;
+  color: var(--aang-color-font-2);
   background-color: var(--aang-color-destaque);
 }
