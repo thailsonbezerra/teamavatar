@@ -1,0 +1,4 @@
+#toph .btn {
+  color: var(--toph-color-font-2);
+  background-color: var(--toph-color-destaque);
+}

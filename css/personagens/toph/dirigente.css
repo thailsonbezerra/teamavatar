@@ -1,0 +1,25 @@
+#toph .dirigente-bg {
+  background: var(--toph-color-bg) url("/img/tribos/tribo-terra.png") no-repeat
+    right top;
+}
+
+#toph .dirigente {
+  background: url("/img/toph-bg.png") no-repeat left bottom;
+}
+
+#toph .dirigente-descricao h1 {
+  color: var(--toph-color-destaque);
+}
+
+#toph .dirigente-imagem {
+  background: url("/img/toph-shape.svg") no-repeat;
+}
+
+#toph .dirigente-info p {
+  color: var(--toph-color-font);
+}
+
+#toph .dirigente-info h2,
+#toph .dirigente-descricao p {
+  color: var(--toph-color-font-2);
+}

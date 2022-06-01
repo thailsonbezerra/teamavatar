@@ -1,0 +1,12 @@
+#toph .header-bg {
+  background-color: var(--toph-color-header-bg);
+}
+
+#toph .header-menu a {
+  color: var(--toph-color-font);
+}
+
+#toph .header-menu a:hover {
+  color: var(--toph-color-destaque);
+  border-bottom: var(--toph-color-destaque) solid 2px;
+}

@@ -1,0 +1,14 @@
+#toph .footer-bg {
+  background: var(--toph-color-bg) url("/img/tribos/tribo-terra.png") no-repeat
+    left top;
+}
+
+#toph .proximo-personagem,
+#toph .proximo-personagem-descricao {
+  color: var(--toph-color-font-2);
+}
+
+#toph .proximo-personagem:hover {
+  color: var(--toph-color-destaque);
+  border-bottom: var(--toph-color-destaque) solid 2px;
+}
