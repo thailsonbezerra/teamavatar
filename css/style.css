@@ -21,3 +21,8 @@
 @import "personagens/zuko/dirigente.css";
 @import "personagens/zuko/header.css";
 @import "personagens/zuko/footer.css";
+
+@import "personagens/toph/utilidades.css";
+@import "personagens/toph/dirigente.css";
+@import "personagens/toph/header.css";
+@import "personagens/toph/footer.css";
