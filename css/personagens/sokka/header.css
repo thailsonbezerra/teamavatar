@@ -10,3 +10,11 @@
   color: var(--sokka-color-destaque);
   border-bottom: var(--sokka-color-destaque) solid 2px;
 }
+
+#sokka .mobile-menu div {
+  background: var(--sokka-color-destaque);
+}
+
+#sokka .header.ativo .header-menu {
+  background: var(--sokka-color-header-bg);
+}

@@ -10,3 +10,11 @@
   color: var(--aang-color-destaque);
   border-bottom: var(--aang-color-destaque) solid 2px;
 }
+
+#aang .mobile-menu div {
+  background: var(--aang-color-destaque);
+}
+
+#aang .header.ativo .header-menu {
+  background: var(--aang-color-header-bg);
+}

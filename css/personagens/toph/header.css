@@ -10,3 +10,11 @@
   color: var(--toph-color-destaque);
   border-bottom: var(--toph-color-destaque) solid 2px;
 }
+
+#toph .mobile-menu div {
+  background: var(--toph-color-destaque);
+}
+
+#toph .header.ativo .header-menu {
+  background: var(--toph-color-header-bg);
+}

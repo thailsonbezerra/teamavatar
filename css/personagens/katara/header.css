@@ -10,3 +10,11 @@
   color: var(--katara-color-destaque);
   border-bottom: var(--katara-color-destaque) solid 2px;
 }
+
+#katara .mobile-menu div {
+  background: var(--katara-color-destaque);
+}
+
+#katara .header.ativo .header-menu {
+  background: var(--katara-color-header-bg);
+}

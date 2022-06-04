@@ -10,3 +10,11 @@
   color: var(--zuko-color-destaque);
   border-bottom: var(--zuko-color-destaque) solid 2px;
 }
+
+#zuko .mobile-menu div {
+  background: var(--zuko-color-destaque);
+}
+
+#zuko .header.ativo .header-menu {
+  background: var(--zuko-color-header-bg);
+}

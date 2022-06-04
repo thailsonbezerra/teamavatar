@@ -22,7 +22,6 @@
 .mobile-menu div {
   width: 32px;
   height: 2px;
-  background: aliceblue;
   margin: 8px;
   transition: 0.3s;
 }
@@ -61,7 +60,6 @@
     width: 100%;
     display: flex;
     position: absolute;
-    background-color: #c79c51;
     top: 12vh;
     right: 0;
     height: 88vh;
