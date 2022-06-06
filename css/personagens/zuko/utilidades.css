@@ -1,4 +1,4 @@
 #zuko .btn {
-  color: var(--zuko-color-font-2);
+  color: var(--zuko-color-header-bg);
   background-color: var(--zuko-color-destaque);
 }
