@@ -6,6 +6,7 @@
 /*UTILIDADES*/
 @import "utilidades/componentes.css";
 @import "utilidades/cores.css";
+@import "utilidades/modal.css";
 /*PERSONAGENS*/
 @import "personagens/aang/header.css";
 @import "personagens/aang/dirigente.css";
