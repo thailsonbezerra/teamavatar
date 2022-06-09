@@ -1,4 +1,10 @@
 #sokka .btn {
   color: var(--sokka-color-font-2);
   background-color: var(--sokka-color-destaque);
+  cursor: default;
+}
+
+#sokka .btn:hover {
+  box-shadow: initial;
+  transform: initial;
 }

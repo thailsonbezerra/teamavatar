@@ -2,3 +2,15 @@
   color: var(--zuko-color-header-bg);
   background-color: var(--zuko-color-destaque);
 }
+
+#zuko .modal h2 {
+  color: var(--zuko-color-font-2);
+}
+
+#zuko .pergaminho-info p {
+  color: var(--zuko-color-font-2);
+}
+
+#zuko .pergaminho-imagem {
+  border: 2px solid var(--zuko-color-destaque);
+}

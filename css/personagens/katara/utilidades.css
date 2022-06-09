@@ -2,3 +2,15 @@
   color: var(--katara-color-font-2);
   background-color: var(--katara-color-destaque);
 }
+
+#katara .modal h2 {
+  color: var(--katara-color-font-2);
+}
+
+#katara .pergaminho-info p {
+  color: var(--katara-color-font-2);
+}
+
+#katara .pergaminho-imagem {
+  border: 2px solid var(--katara-color-destaque);
+}

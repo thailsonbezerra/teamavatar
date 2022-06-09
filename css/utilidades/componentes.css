@@ -36,17 +36,11 @@
   right: -20px;
   font-size: 2rem;
   text-align: center;
-  /* background-color: #edcfa7; */
   background: url("/img/pergaminhos/folha-antiga.png") 40%;
   color: var(--aang-color-font-2);
   cursor: pointer;
   transition: 0.3s;
 }
-
-/* .btn-fechar:hover {
-  background: url("/img/pergaminhos/folha-antiga.png") 5% no-repeat;
-  color: var(--aang-color-destaque);
-} */
 
 @media (max-width: 800px) {
   .btn {

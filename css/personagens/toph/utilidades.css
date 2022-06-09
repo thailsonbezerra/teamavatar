@@ -2,3 +2,15 @@
   color: var(--toph-color-font);
   background-color: var(--toph-color-destaque);
 }
+
+#toph .modal h2 {
+  color: var(--toph-color-font-2);
+}
+
+#toph .pergaminho-info p {
+  color: var(--toph-color-font-2);
+}
+
+#toph .pergaminho-imagem {
+  border: 2px solid var(--toph-color-destaque);
+}
