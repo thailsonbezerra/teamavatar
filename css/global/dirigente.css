@@ -10,12 +10,22 @@
 .dirigente-descricao h1 {
   font-size: 5.25rem;
   margin-bottom: 20px;
+  animation: animaEsquerda 0.4s ease-in-out;
 }
 
 .dirigente-descricao p {
   font-size: 1.25rem;
   font-weight: 500;
   margin-bottom: 48px;
+  animation: animaEsquerda 0.6s ease-in-out;
+}
+
+.dirigente-descricao .btn {
+  animation: animaEsquerda 0.8s ease-in-out;
+}
+
+.dirigente-imagem img {
+  animation: animaCentro 0.8s ease-in-out;
 }
 
 .dirigente-info {
@@ -26,10 +36,12 @@
 .dirigente-info h2 {
   font-size: 1.5rem;
   margin-bottom: 8px;
+  animation: animaDireita 1s ease-in-out;
 }
 
 .dirigente-info p {
   margin-bottom: 20px;
+  animation: animaDireita 1.2s ease-in-out;
 }
 
 @media (max-width: 1000px) {
