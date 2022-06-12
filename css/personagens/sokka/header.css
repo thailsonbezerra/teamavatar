@@ -6,7 +6,8 @@
   color: var(--sokka-color-font);
 }
 
-#sokka .header-menu a:hover {
+#sokka .header-menu a:hover,
+#sokka .header-menu a.ativo {
   color: var(--sokka-color-destaque);
   border-bottom: var(--sokka-color-destaque) solid 2px;
 }

@@ -6,7 +6,8 @@
   color: var(--katara-color-font);
 }
 
-#katara .header-menu a:hover {
+#katara .header-menu a:hover,
+#katara .header-menu a.ativo {
   color: var(--katara-color-destaque);
   border-bottom: var(--katara-color-destaque) solid 2px;
 }

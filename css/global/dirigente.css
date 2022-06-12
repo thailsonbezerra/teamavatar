@@ -41,7 +41,7 @@
 
 .dirigente-info p {
   margin-bottom: 20px;
-  animation: animaDireita 1.2s ease-in-out;
+  animation: animaDireita 1.5s ease-in-out;
 }
 
 @media (max-width: 1000px) {

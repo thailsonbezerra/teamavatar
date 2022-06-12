@@ -6,7 +6,8 @@
   color: var(--toph-color-font);
 }
 
-#toph .header-menu a:hover {
+#toph .header-menu a:hover,
+#toph .header-menu a.ativo {
   color: var(--toph-color-destaque);
   border-bottom: var(--toph-color-destaque) solid 2px;
 }

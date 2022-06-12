@@ -6,7 +6,8 @@
   color: var(--zuko-color-font);
 }
 
-#zuko .header-menu a:hover {
+#zuko .header-menu a:hover,
+#zuko .header-menu a.ativo {
   color: var(--zuko-color-destaque);
   border-bottom: var(--zuko-color-destaque) solid 2px;
 }

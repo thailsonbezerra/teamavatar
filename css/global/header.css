@@ -14,6 +14,10 @@
   font-size: 1.25rem;
 }
 
+.header-menu a:hover {
+  transition: color 0.5s, border-bottom-color 5s;
+}
+
 .mobile-menu {
   cursor: pointer;
   display: none;
