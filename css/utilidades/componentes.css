@@ -36,7 +36,7 @@
   right: -20px;
   font-size: 2rem;
   text-align: center;
-  background: url("/img/pergaminhos/folha-antiga.png") 40%;
+  background: url("../../../img/pergaminhos/folha-antiga.png") 40%;
   color: var(--aang-color-font-2);
   cursor: pointer;
   transition: 0.3s;

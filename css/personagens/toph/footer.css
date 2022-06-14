@@ -1,6 +1,6 @@
 #toph .footer-bg {
-  background: var(--toph-color-bg) url("/img/tribos/tribo-terra.png") no-repeat
-    left top;
+  background: var(--toph-color-bg) url("../../../img/tribos/tribo-terra.png")
+    no-repeat left top;
 }
 
 #toph .proximo-personagem,

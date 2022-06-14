@@ -1,10 +1,10 @@
 #katara .dirigente-bg {
-  background: var(--katara-color-bg) url("/img/tribos/tribo-agua.png") no-repeat
-    right top;
+  background: var(--katara-color-bg) url("../../../img/tribos/tribo-agua.png")
+    no-repeat right top;
 }
 
 #katara .dirigente {
-  background: url("/img/katara/katara-bg.png") no-repeat left bottom;
+  background: url("../../../img/katara/katara-bg.png") no-repeat left bottom;
 }
 
 #katara .dirigente-descricao h1 {
@@ -12,7 +12,7 @@
 }
 
 #katara .dirigente-imagem {
-  background: url("/img/katara/katara-shape.svg") no-repeat;
+  background: url("../../../img/katara/katara-shape.svg") no-repeat;
 }
 
 #katara .dirigente-info p {

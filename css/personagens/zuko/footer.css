@@ -1,6 +1,6 @@
 #zuko .footer-bg {
-  background: var(--zuko-color-bg) url("/img/tribos/tribo-fogo.png") no-repeat
-    left top;
+  background: var(--zuko-color-bg) url("../../../img/tribos/tribo-fogo.png")
+    no-repeat left top;
 }
 
 #zuko .proximo-personagem,

@@ -1,6 +1,6 @@
 #aang .footer-bg {
-  background: var(--aang-color-bg) url("/img/tribos/tribo-ar.png") no-repeat
-    left top;
+  background: var(--aang-color-bg) url("../../../img/tribos/tribo-ar.png")
+    no-repeat left top;
 }
 
 #aang .proximo-personagem,

@@ -1,10 +1,10 @@
 #aang .dirigente-bg {
-  background: var(--aang-color-bg) url("/img/tribos/tribo-ar.png") no-repeat
-    right top;
+  background: var(--aang-color-bg) url("../../../img/tribos/tribo-ar.png")
+    no-repeat right top;
 }
 
 #aang .dirigente {
-  background: url("../../../") no-repeat left bottom;
+  background: url("../../../img/aang/aang-bg.png") no-repeat left bottom;
 }
 
 #aang .dirigente-descricao h1 {
@@ -12,7 +12,7 @@
 }
 
 #aang .dirigente-imagem {
-  background: url("./img/aang/aang-shape.svg") no-repeat;
+  background: url("../../../img/aang/aang-shape.svg") no-repeat;
 }
 
 #aang .dirigente-info p {
