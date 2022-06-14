@@ -11,7 +11,7 @@ export default function initModal() {
     const classeElementoClicado = event.path[0].classList.value;
     if (
       classeElementoClicado === "modal-container" ||
-      classeElementoClicado === "btn-fechar"
+      classeElementoClicado === "btn-modal-fechar"
     ) {
       modal.style.display = "none";
     }

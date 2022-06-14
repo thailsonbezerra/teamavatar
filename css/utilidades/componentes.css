@@ -26,7 +26,7 @@
   transform: scale(1.1);
 }
 
-.btn-fechar {
+.btn-modal-fechar {
   border: none;
   border-radius: 50%;
   width: 64px;
@@ -36,7 +36,7 @@
   right: -20px;
   font-size: 2rem;
   text-align: center;
-  background: url("../../../img/pergaminhos/folha-antiga.png") 40%;
+  background: url("../.././img/pergaminhos/folha-antiga.png") 40%;
   color: var(--aang-color-font-2);
   cursor: pointer;
   transition: 0.3s;

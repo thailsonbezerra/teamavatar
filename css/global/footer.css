@@ -59,7 +59,7 @@
   }
 
   .proximo-personagem {
-    text-align: center;
+    justify-self: center;
   }
 
   .copy {
