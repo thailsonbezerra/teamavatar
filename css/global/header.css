@@ -15,7 +15,7 @@
 }
 
 .header-menu a:hover {
-  transition: color 0.5s, border-bottom-color 5s;
+  transition: 0.3s;
 }
 
 .mobile-menu {

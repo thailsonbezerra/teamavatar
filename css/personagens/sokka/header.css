@@ -9,6 +9,9 @@
 #sokka .header-menu a:hover,
 #sokka .header-menu a.ativo {
   color: var(--sokka-color-destaque);
+}
+
+#sokka .header-menu a.ativo {
   border-bottom: var(--sokka-color-destaque) solid 2px;
 }
 

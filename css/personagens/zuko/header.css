@@ -9,6 +9,9 @@
 #zuko .header-menu a:hover,
 #zuko .header-menu a.ativo {
   color: var(--zuko-color-destaque);
+}
+
+#zuko .header-menu a.ativo {
   border-bottom: var(--zuko-color-destaque) solid 2px;
 }
 

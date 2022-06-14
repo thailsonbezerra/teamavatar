@@ -9,6 +9,9 @@
 #aang .header-menu a:hover,
 #aang .header-menu a.ativo {
   color: var(--aang-color-destaque);
+}
+
+#aang .header-menu a.ativo {
   border-bottom: var(--aang-color-destaque) solid 2px;
 }
 

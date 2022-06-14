@@ -9,6 +9,9 @@
 #katara .header-menu a:hover,
 #katara .header-menu a.ativo {
   color: var(--katara-color-destaque);
+}
+
+#katara .header-menu a.ativo {
   border-bottom: var(--katara-color-destaque) solid 2px;
 }
 
