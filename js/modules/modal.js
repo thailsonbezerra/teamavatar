@@ -2,12 +2,15 @@ export default function initModal() {
   const botaoPergaminho = document.querySelector(".dirigente-descricao .btn");
   const modal = document.querySelector(".modal-container");
 
-  function abrirModal() {
+  function abrirModal(event) {
+    if (event.type === "touchstart") event.preventDefault();
     modal.style.display = "flex";
     modal.addEventListener("click", fecharModal);
+    modal.addEventListener("touchstart", fecharModal);
   }
 
   function fecharModal(event) {
+    if (event.type === "touchstart") event.preventDefault();
     const classeElementoClicado = event.path[0].classList.value;
     if (
       classeElementoClicado === "modal-container" ||
@@ -18,4 +21,5 @@ export default function initModal() {
   }
 
   botaoPergaminho.addEventListener("click", abrirModal);
+  botaoPergaminho.addEventListener("touchstart", abrirModal);
 }
