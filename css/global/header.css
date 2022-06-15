@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 12vh;
+  height: 80px;
 }
 
 .header-menu {
@@ -65,16 +65,17 @@
     width: 100%;
     display: flex;
     position: absolute;
-    top: 12vh;
+    top: 80px;
     right: 0;
-    height: 88vh;
+    height: calc(100vh - 80px);
     flex-direction: column;
-    gap: 20px;
-    justify-content: space-evenly;
+    gap: 8px;
     align-items: center;
+    padding: 100px;
+    gap: 28px;
   }
 
   .header.ativo .header-menu a {
-    font-size: 3rem;
+    font-size: 2.4rem;
   }
 }
