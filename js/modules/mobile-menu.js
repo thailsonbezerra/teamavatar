@@ -3,6 +3,7 @@ export default function initMobileMenu() {
 
   mobileMenu.addEventListener("click", () => {
     const header = document.querySelector(".header");
+
     header.classList.toggle("ativo");
 
     if (header.classList.contains("ativo")) {
