@@ -1,3 +1,4 @@
+/*Menu Mobile ativo -> Retirar scroll do body*/
 body.esconder {
   overflow: hidden;
   position: fixed;
