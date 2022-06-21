@@ -2,11 +2,11 @@
     <img src="https://raw.githubusercontent.com/thailsonbezerra/teamavatar/main/img/avatar.png">
 </h1>
 
-<h1>
+<h1 align="center">
     <p>Demonstração Web </p>
-    <a href="https://im.ge/i/uTOMb1"><img src="https://i.im.ge/2022/06/21/uTOMb1.md.gif" alt="uTOMb1.gif" border="0" /></a>
+    <img src="public/gifweb.gif">
     <p>Demonstração Mobile </p>
-   <img src="https://i.im.ge/2022/06/21/uTFehP.md.gif"/>
+   <img src="public/gifmobile.gif">
 </h1>
 
 <h3 align="center">
