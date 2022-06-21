@@ -10,7 +10,6 @@ export default function initModal() {
   }
 
   function fecharModal(event) {
-    if (event.type === "touchstart") event.preventDefault();
     const classeElementoClicado = event.path[0].classList.value;
     if (
       classeElementoClicado === "modal-container" ||
