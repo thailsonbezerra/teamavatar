@@ -1,12 +1,12 @@
-<h1>
+<h1 align="center">
     <img src="https://raw.githubusercontent.com/thailsonbezerra/teamavatar/main/img/avatar.png">
 </h1>
 
-<h1 align="center">
+<h1>
     <p>Demonstração Web </p>
     <a href="https://im.ge/i/uTOMb1"><img src="https://i.im.ge/2022/06/21/uTOMb1.md.gif" alt="uTOMb1.gif" border="0" /></a>
     <p>Demonstração Mobile </p>
-    <a href="https://im.ge/i/uTFehP"><img src="https://i.im.ge/2022/06/21/uTFehP.md.gif" alt="uTFehP.gif" border="0" /></a>
+   <img src="https://i.im.ge/2022/06/21/uTFehP.md.gif"/>
 </h1>
 
 <h3 align="center">
