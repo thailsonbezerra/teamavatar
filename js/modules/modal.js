@@ -10,7 +10,7 @@ export default function initModal() {
   }
 
   function fecharModal(event) {
-    const classeElementoClicado = event.path[0].classList.value;
+    const classeElementoClicado = event.srcElement.classList.value;
     if (
       classeElementoClicado === "modal-container" ||
       classeElementoClicado === "btn-modal-fechar"
